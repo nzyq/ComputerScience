@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "20b6ff1bc7de296c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5157858f3d3f5912",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20e1073984dcc209",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89e1fe8bedef51db",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fb67da61f7f2c87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17c7ff6b07f029a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "780ee2cc81caa687",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9bc2c077e05a744e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7d15add135fdb00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dafd6b4fcf97cb78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "17c7ff6b07f029a5",
+  "lastOpenFiles": [
+    "Personal Computer Architecture.md",
+    "Cache Memory and RAMs.md",
+    "Unit of measurement for storage data.md",
+    "Primary and Secondary Storage.md",
+    "Fetch and Execute Cycle.md",
+    "Computer Hardware and Architecture.md",
+    "Crystal Oscillator and Clock Speed.md",
+    "Attached Pictures/Pasted image 20221026181809.png",
+    "Computer Hardware and Architecture/Summary.md",
+    "Attached Pictures/Pasted image 20221026181824.png"
+  ]
+}
