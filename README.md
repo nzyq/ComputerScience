@@ -16,7 +16,17 @@
 - **About This Notebook**
 
 ## Introduction 
- This is a self-paced leanring note for the field of computer science. For the sake of accessibility of this notebook, the solutions and demos in this notebook are mostly written in Java as Java is currently the most common programming language in the community and workplace.
+[![OneNote](https://img.shields.io/badge/OneNote-available-7719AA?style=flat&logo=microsoftonenote)](https://1drv.ms/u/s!AmWG9Hx2-DjXqSPM5NaNAiJf4V7L)
+
+This is a self-paced leanring note the field of computer science. For the sake of accessibility of this notebook, the solutions and demos in this notebook are mostly provided in Java as Java is currently the most common programming language in the community and workplace. 
+
+This notebook is available on both GitHub and OneNote, you can access OneNote version of the notebook by click into the badge above.
+
+## How can I make a contribution
+Contributor from all-levels are welcomed to share your knowledge and add them to the notebook. 
+
+The notebook has two versions, and you are free to contribute your contents to whichever one you find most confortable with.
+Please find the Contributing Guide for details.
 
 ## Disclaimer 
 Every effort has been made in the preparation of this material to maximise the accuracy of contents presented. However, this material may still contain typographical-errors or inadvertent misleading arguments and therefore requires conscious attention when going through the material and make any calibration where necessary.       
