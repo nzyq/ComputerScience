@@ -1,6 +1,6 @@
 # Contributing Guide
 
-Thank you for your time and interest in helping this notebook continue to evolve. As a contributor, your username will be added to the contributor list and your effort will be appreciated. 
+Thank you for your time and interest in helping this notebook continue to evolve. As a contributor, your username will be added to the contributor list and your effort will be appreciated.    
 
 In this contributing guide you will understand the contribution work flow and the note style we use. 
 
@@ -8,23 +8,36 @@ We are running two versions of this notebook on both GitHub and OneNote, and you
 
 ## Contribute to GitHub with Markdown
 #### Fork and clone the repo
- Fork and clone the [repository](https://github.com/BlindTerran/ComputerScience) if you want have a copy of the notebook on your own machine.
-- Using GitHub Desktop (GUI):
-    - [Getting started with GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop) will guide you through setting up the notebook
+ Fork and clone the [repository](https://github.com/BlindTerran/ComputerScience) so that you can make changes without affecting the original files.
+- Fork and clone using GitHub Desktop (GUI):
+    - [Getting started with GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop) will guide you through setting up the GUI for you to work on.
     - Once GitHub Desktop is set up, you can now use it to [fork and clone the repo](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop).
-- Using the command line (CLI):
-    - [Fork and clone the repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo#fork-an-example-repository) so that you can make changes without affecting the original files.
+- Fork and clone using command line (CLI):
+    - [Fork and clone the repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo#fork-an-example-repository) will guide you through the steps to fork and clone using CLI
+    - Use this command in your terminal to clone `git clone https://github.com/BlindTerran/ComputerScience.git`
 
 OR you can just edit or add file straightaway on your web browser without doing the fork
 
-#### Commit and push your update
-Commit the changes you made once you are happy with them :) 
+#### Commit and Push your update
+Now you are free to make changes to the notebook, you can edit, add files or do both. Once you are happy with the change you made, you can commit and push your update.
+
+_please keep your commit message simple and informative e.g.ADD README.md for adding new file; UPDATE README.md; for making changes to existing file; REMOVE README.md for deleting file_ 
+
 - Commit using GUI:
     - [Committing and review changes](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project) 
 - Commit using CLI:
-    - to be completed
+    - [Git Commit guide](https://github.com/git-guides/git-commit) will help you through if you are making your very first commit 
+    - Use `git add` to add files to the notebook if you did
+    - Use `git commit -m "your commit message"` to commit changes you made
+    - Once you confirmed and reviewed all the changes you made, you may use `git push` to push your update
+
+OR commit changes follow the prompts on your web browser
 
 #### Pull Request (PR)
-When you are finished with the changes, create a pull request so that your updates are awaiting approval.
+When you are finished with the changes, create a PR so that your updates are awaiting approval.
+[Creating a PR from a fork](Cran.r-project.org) will guide you through the process.
+
+Please select `main` branch when you are asked to select a `base branch` to merge your changes.
 
 ## Contribute to OneNote
+// to be arranged...
