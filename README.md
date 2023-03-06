@@ -29,7 +29,7 @@ The notebook has two versions, you are free to contribute your contents to which
 Please find the [Contributing Guide](Contributing%20Guide.md) for details.
 
 ## Disclaimer 
-Every effort has been made in the preparation of this material to maximise the accuracy of contents presented. However, this material may still contain typographical-errors or inadvertent misleading arguments and therefore please keep conscious attention when going through the material and make any calibration where necessary.       
+Every effort has been made in the preparation of this material to maximise the accuracy of contents presented. However, this material may still contain typographical-errors or inadvertent misleading arguments and therefore please keep a conscious attention when going through the material and make any calibration where necessary.       
 
 ## Acknowledgement 
 It is challenging to compose an easy-to-understand notebook for a beginner or non-experience leaner to obtain knowledge from the field of computer science, it is even difficult for me as a start-up computing student to organise and present these resources to the audience. This is why I am deeply greatful to the content providers and those who sharing their great learning resources on the public websites.
