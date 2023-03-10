@@ -37,9 +37,8 @@ When you are finished with the changes, create a PR so that your updates are awa
 Please select `main` branch when you are asked to select a `base branch` to merge your changes.
 
 ## Contribute to OneNote
+Since OneNote is basically a text editor supports rich text formatting which is fundamentally different from what we do on GitHub, and OneNote uses different collaboration and version control system, you will need an access link to allow you to view the notebook and make changes.
 
-Since OneNote is basically a text editor supports rich text formatting which is fundamentally different from markdown,  and OneNote uses different collaboration and version control system, you need a access link to allow you view the notebook and make changes.
+Therefore please email me at hongtingsu+contact@gmail.com with your **email address included** in your message and I will grant you access to edit the OneNote version of the notebook.
 
-Therefore please email me at hongtingsu+contact@gmail.com and I will grant you access to edit the OneNote version of the notebook.
-
-Once you obtain the access to OneNote, please firstly navigate yourself to `About This Notebook/Contributor Manual` and read through the entire page before you start contributing. 
+Once you obtained the access to OneNote, please firstly navigate yourself to `About This Notebook/Contributor Manual` and read through the entire page before you start contributing. 

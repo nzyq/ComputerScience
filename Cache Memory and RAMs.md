@@ -15,3 +15,5 @@ Suppose the CPU wants to retrieve a program instruction from memory, the memory 
 Program instructions and data are never retrieved or saved individually, the cache memory is divided into cache lines with each line typically contains 64 bytes[[Unit of measurement for storage data]]. During a data and instruction transfer, the entire cache line is read or written in one go even if the whole line is not needed.
 
 Ex. When level 1 cache is full then the entire cache line is copied to the level 2 cache, finally if necessary the entire cache line will be copied to the DRAM.
+
+// this is a test message
