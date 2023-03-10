@@ -36,3 +36,6 @@ It is challenging to compose an easy-to-understand notebook for a beginner or no
 Here by I would like to give special thanks to Adam Florence who creates the SDD note and the [computer science lessons](https://www.youtube.com/@ComputerScienceLessons) produced by Kevin Drumm. 
 
 This notebook will continue to update and patch any incorrect or misleading content. Please expect a more refined and comprehensive notebook as the day goes on.
+
+
+Hello world !
