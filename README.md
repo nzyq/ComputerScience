@@ -37,14 +37,3 @@ Here by I would like to give special thanks to Adam Florence who creates the SDD
 
 This notebook will continue to update and patch any incorrect or misleading content. Please expect a more refined and comprehensive notebook as the day goes on.
 
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-I made a change 
-
-=======
->>>>>>> a9952d1596ff4d80c0c4e73d162f243f7ef4290a
->>>>>>> Stashed changes
