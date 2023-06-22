@@ -16,4 +16,3 @@ Program instructions and data are never retrieved or saved individually, the cac
 
 Ex. When level 1 cache is full then the entire cache line is copied to the level 2 cache, finally if necessary the entire cache line will be copied to the DRAM.
 
-// this is a test message
